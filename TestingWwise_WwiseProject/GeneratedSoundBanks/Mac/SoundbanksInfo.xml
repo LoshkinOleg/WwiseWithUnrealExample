@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Mac" BasePlatform="Mac" SchemaVersion="12" SoundbankVersion="140">
+	<RootPaths>
+		<ProjectRoot>C:\Users\admin\Desktop\UnrealProjects\TestingWwise\TestingWwise_WwiseProject\</ProjectRoot>
+		<SourceFilesRoot>C:\Users\admin\Desktop\UnrealProjects\TestingWwise\TestingWwise_WwiseProject\.cache\Mac\</SourceFilesRoot>
+		<SoundBanksRoot>C:\Users\admin\Desktop\UnrealProjects\TestingWwise\TestingWwise_WwiseProject\GeneratedSoundBanks\Mac\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>C:\Users\admin\Desktop\UnrealProjects\TestingWwise\TestingWwise_WwiseProject\GeneratedSoundBanks\Mac</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles/>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="1355168291" Language="SFX" Hash="2754342975">
+			<ObjectPath>Init</ObjectPath>
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+		</SoundBank>
+		<SoundBank Id="2034638677" Language="SFX" Hash="1028638156">
+			<ObjectPath>\SoundBanks\Default Work Unit\MyBank</ObjectPath>
+			<ShortName>MyBank</ShortName>
+			<Path>MyBank.bnk</Path>
+			<IncludedEvents>
+				<Event Id="3458388525" Name="MyEvent" ObjectPath="\Events\Default Work Unit\MyEvent">
+					<IncludedMemoryFiles>
+						<File Id="511286636" Language="SFX">
+							<ShortName>boing.wav</ShortName>
+							<Path>SFX\boing_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+			</IncludedEvents>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

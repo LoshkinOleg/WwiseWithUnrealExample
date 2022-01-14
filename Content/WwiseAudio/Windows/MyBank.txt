@@ -1,0 +1,6 @@
+Event	ID	Name			Wwise Object Path	Notes
+	3458388525	MyEvent			\Default Work Unit\MyEvent	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	511286636	MyTestingSound	C:\Users\admin\Desktop\UnrealProjects\TestingWwise\TestingWwise_WwiseProject\.cache\Windows\SFX\boing_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\MyTestingSound		139016
+

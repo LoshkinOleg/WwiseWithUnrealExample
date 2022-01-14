@@ -1,0 +1,57 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "12",
+  "SoundbankVersion": "140",
+  "RootPaths": {
+   "ProjectRoot": "C:\\Users\\admin\\Desktop\\UnrealProjects\\TestingWwise\\TestingWwise_WwiseProject\\",
+   "SourceFilesRoot": "C:\\Users\\admin\\Desktop\\UnrealProjects\\TestingWwise\\TestingWwise_WwiseProject\\.cache\\Windows\\",
+   "SoundBanksRoot": "C:\\Users\\admin\\Desktop\\UnrealProjects\\TestingWwise\\Content\\WwiseAudio\\Windows\\",
+   "ExternalSourcesInputFile": "",
+   "ExternalSourcesOutputRoot": "C:\\Users\\admin\\Desktop\\UnrealProjects\\TestingWwise\\TestingWwise_WwiseProject\\GeneratedSoundBanks\\Windows"
+  },
+  "DialogueEvents": [],
+  "StreamedFiles": [],
+  "MediaFilesNotInAnyBank": [],
+  "SoundBanks": [
+   {
+    "Id": "1355168291",
+    "GUID": "{701ECBBD-9C7B-4030-8CDB-749EE5D1C7B9}",
+    "Language": "SFX",
+    "Hash": "3690994985",
+    "ObjectPath": "Init",
+    "ShortName": "Init",
+    "Path": "Init.bnk"
+   },
+   {
+    "Id": "2034638677",
+    "GUID": "{BD193DE1-E6FE-4C8B-A21D-2DA8B895628D}",
+    "Language": "SFX",
+    "Hash": "1028638156",
+    "ObjectPath": "\\SoundBanks\\Default Work Unit\\MyBank",
+    "ShortName": "MyBank",
+    "Path": "MyBank.bnk",
+    "IncludedEvents": [
+     {
+      "Id": "3458388525",
+      "Name": "MyEvent",
+      "ObjectPath": "\\Events\\Default Work Unit\\MyEvent",
+      "GUID": "{2A185E97-EBA6-43FC-BCFF-B607F57CA773}",
+      "DurationType": "OneShot",
+      "DurationMin": "0.723708",
+      "DurationMax": "0.723708",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "511286636",
+        "Language": "SFX",
+        "ShortName": "boing.wav",
+        "Path": "SFX\\boing_10C4C929.wem"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}
