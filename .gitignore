@@ -75,3 +75,5 @@ DerivedDataCache/*
 
 # Wwise stuff.
 TestingWwise_WwiseProject/.cache/
+Plugins/Wwise/ThirdParty/*
+Plugins/Wwise/Source/*

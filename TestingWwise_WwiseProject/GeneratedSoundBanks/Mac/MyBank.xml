@@ -7,15 +7,7 @@
 		<ExternalSourcesInputFile></ExternalSourcesInputFile>
 		<ExternalSourcesOutputRoot>C:\Users\admin\Desktop\UnrealProjects\TestingWwise\TestingWwise_WwiseProject\GeneratedSoundBanks\Mac</ExternalSourcesOutputRoot>
 	</RootPaths>
-	<DialogueEvents/>
-	<StreamedFiles/>
-	<MediaFilesNotInAnyBank/>
 	<SoundBanks>
-		<SoundBank Id="1355168291" GUID="{701ECBBD-9C7B-4030-8CDB-749EE5D1C7B9}" Language="SFX" Hash="2754342975">
-			<ObjectPath>Init</ObjectPath>
-			<ShortName>Init</ShortName>
-			<Path>Init.bnk</Path>
-		</SoundBank>
 		<SoundBank Id="2034638677" GUID="{BD193DE1-E6FE-4C8B-A21D-2DA8B895628D}" Language="SFX" Hash="1028638156">
 			<ObjectPath>\SoundBanks\Default Work Unit\MyBank</ObjectPath>
 			<ShortName>MyBank</ShortName>
