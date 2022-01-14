@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="12" SoundbankVersion="140">
 	<RootPaths>
-		<ProjectRoot>C:\Users\admin\Desktop\UnrealProjects\TestingWwise\TestingWwise_WwiseProject\</ProjectRoot>
-		<SourceFilesRoot>C:\Users\admin\Desktop\UnrealProjects\TestingWwise\TestingWwise_WwiseProject\.cache\Windows\</SourceFilesRoot>
-		<SoundBanksRoot>C:\Users\admin\Desktop\UnrealProjects\TestingWwise\Content\WwiseAudio\Windows\</SoundBanksRoot>
+		<ProjectRoot>C:\Users\admin\Desktop\WwiseWithUnrealExample\TestingWwise_WwiseProject\</ProjectRoot>
+		<SourceFilesRoot>C:\Users\admin\Desktop\WwiseWithUnrealExample\TestingWwise_WwiseProject\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>C:\Users\admin\Desktop\WwiseWithUnrealExample\Content\Assets\Sounds\WwiseAudio\Windows\</SoundBanksRoot>
 		<ExternalSourcesInputFile></ExternalSourcesInputFile>
-		<ExternalSourcesOutputRoot>C:\Users\admin\Desktop\UnrealProjects\TestingWwise\TestingWwise_WwiseProject\GeneratedSoundBanks\Windows</ExternalSourcesOutputRoot>
+		<ExternalSourcesOutputRoot>C:\Users\admin\Desktop\WwiseWithUnrealExample\TestingWwise_WwiseProject\GeneratedSoundBanks\Windows</ExternalSourcesOutputRoot>
 	</RootPaths>
 	<SoundBanks>
-		<SoundBank Id="2034638677" GUID="{BD193DE1-E6FE-4C8B-A21D-2DA8B895628D}" Language="SFX" Hash="1028638156">
+		<SoundBank Id="2034638677" GUID="{BD193DE1-E6FE-4C8B-A21D-2DA8B895628D}" Language="SFX" Hash="986531248">
 			<ObjectPath>\SoundBanks\Default Work Unit\MyBank</ObjectPath>
 			<ShortName>MyBank</ShortName>
 			<Path>MyBank.bnk</Path>
